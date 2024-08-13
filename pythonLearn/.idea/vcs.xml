@@ -3,7 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../devDBA" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../../kbproject" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../objetos-bd-clientes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
   </component>
