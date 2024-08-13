@@ -1,8 +1,3 @@
-"""
-3. Faça um programa que leia 10 valores, armazene-os em uma lista e apresente quantos
-valores pares ele possui.
-"""
-
 lista: list[int] = []
 contador_pares: int = 0
 
